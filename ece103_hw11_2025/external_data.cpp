@@ -4,9 +4,10 @@
 #include "external_data.h"
 
 char nickname_list[25][50] = {
-    "Dr. Mali*", 
-//*** I suggest that you do not modify above ***
+    "Dr. Mali*",
+    //*** I suggest that you do not modify above ***
 
+        "Poly_",
 
 
 //*** I suggest that you do not modify below ***
